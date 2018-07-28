@@ -206,6 +206,9 @@ textarea {
 textarea {
   height: 200px;
 }
+#correctit{
+  height:205.5px;
+}
 
 input[type=submit] {
   padding: 10px 30px;
