@@ -217,7 +217,10 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
-
+#second-container{
+  text-align: center;
+  position: relative;
+}
 /* media structure input here */
 /*  980px, 768px, 640px */
 @media screen and (max-width:980px)
